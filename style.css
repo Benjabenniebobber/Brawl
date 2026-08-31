@@ -1,0 +1,16 @@
+{
+  font-family: "Times New Roman", Times, serif;
+}
+p {
+  padding: 5px;
+  outline-style: solid;
+  outline-color: white;
+  outline-width: medium;
+}
+body {
+  background-color: #fcba03;
+  color: white;
+}
+p {
+font-size: 100px;
+}

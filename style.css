@@ -1,16 +1,18 @@
-{
-  font-family: "Times New Roman", Times, serif;
+body {
+  background-color: white;
+  color: black;
 }
+
+h1 {
+  font-family: Arial, sans-serif;
+  font-size: 100px;
+}
+
 p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
   padding: 5px;
   outline-style: solid;
-  outline-color: white;
+  outline-color: black;
   outline-width: medium;
-}
-body {
-  background-color: #fcba03;
-  color: white;
-}
-p {
-font-size: 100px;
 }
